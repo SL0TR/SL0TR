@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[Strativ AB](https://strativ.se/en/)**
+- 🔭 I’m currently working at **[Crowdlinker](https://crowdlinker.com/)**
 
 - 🌱 I’m currently learning SQL, AWS, Next.js and various forms of automated testing.
 
