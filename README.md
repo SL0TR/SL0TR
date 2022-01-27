@@ -32,7 +32,7 @@
     <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/nolan/64/react-native.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://nestjs.com/" target="_blank"> <img width="64" src="https://symbols.getvecta.com/stencil_89/36_nestjs.14658804d8.png"/> </a>
+    <a href="https://nestjs.com/" target="_blank"> <img width="64" src="https://docs.nestjs.com/assets/logo-small.svg"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://styled-components.com/" target="_blank"> <img width="54" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"/> </a>
