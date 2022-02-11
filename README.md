@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mohaiminislam94@gmail.com**
 
-- ⚡ Fun fact **I play e-sports games and love music, anime, movies and tv series**
+- ⚡ Fun fact **I play e-sports games and am a avid traveler**
 
 ## 🚀 Languages and Tools:
 
