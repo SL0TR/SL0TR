@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working at **[Crowdlinker](https://crowdlinker.com/)**
 
-- 🌱 I’m currently learning AWS, different types of automated testing.
+- 🌱 I’m currently learning AWS and different types of automated testing.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
