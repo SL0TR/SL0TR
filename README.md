@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working at **[Crowdlinker](https://crowdlinker.com/)**
 
-- 🌱 I’m currently learning SQL, AWS, Next.js and various forms of automated testing.
+- 🌱 I’m currently learning AWS, different types of automated testing.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **mohaiminislam94@gmail.com**
 
-- ⚡ Fun fact **I play e-sports games and am a avid traveler**
+- ⚡ Fun fact **I play e-sports games and am an avid traveler**
 
 ## 🚀 Languages and Tools:
 
