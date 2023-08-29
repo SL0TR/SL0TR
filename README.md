@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **[e-mail](mailto:mohaiminislam94@gmail.com)**
+- 📫 How to reach me **[email](mailto:mohaiminislam94@gmail.com)**
 
 - ⚡ Fun fact **I play e-sports games and am an avid traveler**
 
